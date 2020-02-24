@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "draft": true,
+    "createdAt": "2020-02-20 14:40:16.712-06",
+    "updatedAt": "2020-02-20 14:40:16.712-06",
+    "userId": 1,
+    "pollId": 2,
+    "name": "pikachu",
+    "color": "yellow",
+    "properties": null
+  },
+  {
+    "id": 2,
+    "draft": true,
+    "createdAt": "2020-02-20 14:40:16.712-06",
+    "updatedAt": "2020-02-20 14:40:16.712-06",
+    "userId": 2,
+    "pollId": 2,
+    "name": "squirtle",
+    "color": "lightblue",
+    "properties": null
+  },
+  {
+    "id": 3,
+    "draft": true,
+    "createdAt": "2020-02-20 14:40:16.712-06",
+    "updatedAt": "2020-02-20 14:40:16.712-06",
+    "userId": 3,
+    "pollId": 2,
+    "name": "charmander",
+    "color": "pink",
+    "properties": null
+  }
+]
