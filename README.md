@@ -5,3 +5,4 @@
 
 2. Oh wow, [this extension](https://vscode-sqltools.mteixeira.dev/) is so much better. Really nice tab-completion and schema hints. The table results can easily be filtered and saved as either CSV or JSON.
 
+3. Oooooh, and take a look at [this package](https://github.com/vitaly-t/pg-promise), that simplifies working with the pg module in a node application.
